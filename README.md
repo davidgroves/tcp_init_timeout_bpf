@@ -17,7 +17,7 @@ You need the following packages installed to use this.
 - libc6-dev-i386
 - libbpf-dev
 - clang
-- linux-headers-`uname -r`
+- linux-headers-\`uname -r\`
 - (If building with non-Debian packaged kernel, symlink headers to somewhere in the `-I` flags in `build-and-install.sh`)
 
 ## Usage
