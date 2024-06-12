@@ -22,7 +22,7 @@ You need the following packages installed to use this.
 
 ## Usage
 
-Run ./build-and-install.sh. Read it if you want to know more about what is going on.
+Run `./build-and-install.sh`. Read it if you want to know more about what is going on.
 
 ## Example.
 
