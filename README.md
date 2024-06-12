@@ -1,6 +1,10 @@
+## Purpose.
+
+A proof of concept that shows you can set the timeout Linux will use for retransmitting initial SYN's without recompiling the kernel by using BPF tricks.
+
 ## DANGER NOTICE.
 
-This is a proof of concept HACK only. It is NOT something I would recommend in production. It was built to answer the question "can you change the default 1 second delay between TCP SYN's and SYN retransmissions on Linux Kerenls > 6.8".
+This is a proof of concept HACK only. It is NOT something I would recommend in production. It was built to answer the question in the Purpose section only.
 
 ## Setup.
 
